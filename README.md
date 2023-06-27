@@ -1,50 +1,17 @@
 # Continuous Intelligence and Interactive Analytics - Getting Started
 
-- GitHub Pages Website: [cintel-01-getting-started](https://denisecase.github.io/cintel-01-getting-started/)
-- GitHub Repository: [cintel-01-getting-started](https://github.com/denisecase/cintel-01-getting-started)
-- Author: [Denise Case](https://github.com/denisecase)
+- GitHub Pages Website: [cintel-01-getting-started](https://github.com/Habtom1999/cintel-01-getting-started/)
+- GitHub Repository: [cintel-01-getting-started](https://github.com/Habtom1999/cintel-01-getting-started/)
+- Author: [Habtom Woldu](https://github.com/Habtom1999)
 
 
 We begin with two important tools: Git and VS Code. 
-If you are new to them, don't worry - they're relatively easy to learn and very powerful.
-Many of us use them throughout our career. 
 
 Note: 🚀 Rocket Tips are for learners who want to go beyond the basics. 
-They are not required but can improve workflow, increase productivity, and make things more enjoyable.
-
------
-
-## 1. Join the Club
-
-1. Create a free account on [GitHub](https://github.com/), a platform that hosts project code.
-2. Copy this starter repository into your own GitHub account by clicking the 'Fork' button at the top of this page.
-3. Watch [Git and GitHub for Beginners - Crash Course, first 20 min](https://www.youtube.com/watch?v=RGOj5yH7evk) to get started.
+They are not required but can improve workflow, increase productivity, and make things. 
 
 
-## 2. Set Up Your Machine
-
-### Install Git
-
-1. Download and install Git from the [official Git website](https://git-scm.com/). Git helps manage our code and data.
-2. After installation, open your terminal (PowerShell on Windows, Terminal on Mac/Linux) and configure Git with your name and email.
-3. Replace "John Doe" and "johndoe@example.com" with your name and email in the commands below.
-4. Type (or paste) your version of the first command into your terminal and hit ENTER to run it.
-5. When it completes, type (or paste) your version of the second command into your terminal and run it.
-   
-    ```bash
-    git config --global user.name "John Doe"
-    git config --global user.email "johndoe@example.com"
-    ```
-
-### Install VS Code
-
-Download and install VS Code from the [official VS Code website](https://code.visualstudio.com/). 
-
-🚀 Rocket Tip: Invest time in learning VS Code. The more you make use of your editor, the more productive you'll be. 
-
------
-
-## 3. Customize Your Web App
+## 1. Customize Your Web App
 
 We customize this web app by changing the name and colors. We'll get exposure to HTML, CSS, and JavaScript - the 3 key languages of the web, but we're not going for mastery. Learn their names and you can search for more information as needed. These exercises are designed to help explore the possibilities of these incredible, free tools we can use to create immediately useful things.
 
