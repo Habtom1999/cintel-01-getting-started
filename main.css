@@ -15,7 +15,7 @@ Notice the index.html file is divided into a head and body sections.
 
 body {
   font-family: Arial, sans-serif;
-  background-color: #FAFAFA;
+  background-color: #fafafa;
 }
 
 
@@ -24,9 +24,9 @@ body {
 header {
   padding: 10px;
   text-align: center;
-  background-color: #007BFF;
+  background-color: #15ff00;
   color: white;
-  font-size: 2em;
+  font-size: 3em;
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
   /* Add a little shadow to the header */
 }
