@@ -16,7 +16,7 @@ They are not required but can improve workflow, increase productivity, and make 
 We customize this web app by changing the name and colors. We'll get exposure to HTML, CSS, and JavaScript - the 3 key languages of the web, but we're not going for mastery. Learn their names and you can search for more information as needed. These exercises are designed to help explore the possibilities of these incredible, free tools we can use to create immediately useful things.
 
 ### Get the Code to your Local Machine
-    
+
 1. Open VS Code and from the menu, select **View** / **Command Palette**.
 1. Type "Git: Clone" in the command palette and select it.
 1. Enter the URL (web address) of your forked GitHub repository (make sure it contains your GitHub username - not denisecase).
